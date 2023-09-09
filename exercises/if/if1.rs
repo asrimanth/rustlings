@@ -2,13 +2,21 @@
 //
 // Execute `rustlings hint if1` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
+// If-else in Rust
 
 pub fn bigger(a: i32, b: i32) -> i32 {
     // Complete this function to return the bigger number!
     // Do not use:
     // - another function call
     // - additional variables
+
+    // Srimanth was here. My first if condition!
+    if a > b {
+        return a;
+    }
+    else {
+        b
+    }
 }
 
 // Don't mind this for now :)

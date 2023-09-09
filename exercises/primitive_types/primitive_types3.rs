@@ -5,10 +5,11 @@
 // Execute `rustlings hint primitive_types3` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
+// Introduction to arrays.
 
 fn main() {
-    let a = ???
+    // let a = ["Just like arrays in C!", "10", ":-)"];
+    let a = ["Srimanth was here."; 100]; // Notice the semicolon in the middle. It create a static array of size 100.
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
