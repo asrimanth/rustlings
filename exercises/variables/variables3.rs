@@ -3,9 +3,9 @@
 // Execute `rustlings hint variables3` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+// Rust variable types and assignment
 
 fn main() {
-    let x: i32;
-    println!("Number {}", x);
+    let x: i32 = 9;
+    println!("Srimanth was here. Number {}", x);
 }

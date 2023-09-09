@@ -3,11 +3,11 @@
 // Execute `rustlings hint variables4` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+// `mut` in Rust
 
 fn main() {
-    let x = 3;
-    println!("Number {}", x);
+    let mut x = 3;
+    println!("Srimanth was here. Number {}", x);
     x = 5; // don't change this line
-    println!("Number {}", x);
+    println!("Srimanth was here. Number {}", x);
 }
