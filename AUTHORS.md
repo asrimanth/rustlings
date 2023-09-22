@@ -338,6 +338,12 @@ authors.
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/Jak-Ch-ll"><img src="https://avatars.githubusercontent.com/u/56225668?v=4?s=100" width="100px;" alt="Jakob"/><br /><sub><b>Jakob</b></sub></a><br /><a href="#content-Jak-Ch-ll" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="http://oscarbonilla.com"><img src="https://avatars.githubusercontent.com/u/4950?v=4?s=100" width="100px;" alt="Oscar Bonilla"/><br /><sub><b>Oscar Bonilla</b></sub></a><br /><a href="#content-ob" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/husjon"><img src="https://avatars.githubusercontent.com/u/554229?v=4?s=100" width="100px;" alt="Jon Erling Hustadnes"/><br /><sub><b>Jon Erling Hustadnes</b></sub></a><br /><a href="#content-husjon" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/CobaltCause"><img src="https://avatars.githubusercontent.com/u/7003738?v=4?s=100" width="100px;" alt="Charles Hall"/><br /><sub><b>Charles Hall</b></sub></a><br /><a href="#infra-CobaltCause" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/krmpotic"><img src="https://avatars.githubusercontent.com/u/10350645?v=4?s=100" width="100px;" alt="Luka Krmpotić"/><br /><sub><b>Luka Krmpotić</b></sub></a><br /><a href="#content-krmpotic" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/jurglic"><img src="https://avatars.githubusercontent.com/u/112600?v=4?s=100" width="100px;" alt="Jurglic"/><br /><sub><b>Jurglic</b></sub></a><br /><a href="#content-jurglic" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/OfirLauber"><img src="https://avatars.githubusercontent.com/u/5631030?v=4?s=100" width="100px;" alt="Ofir Lauber"/><br /><sub><b>Ofir Lauber</b></sub></a><br /><a href="#content-OfirLauber" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
