@@ -4,7 +4,7 @@ Welcome to my personal Rustlings repository! This is where I document my journey
 
 ## My Progress
 
-Progress: [#################>---------------------------------]  33/94
+Progress: [######################>----------------------------]  42/94
 
 ## Why Rust?
 
